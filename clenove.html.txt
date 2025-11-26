@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+  <meta charset="UTF-8">
+  <title>Členové</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Členové kapely</h1>
+  <nav>
+    <a href="index.html">Domů</a>
+    <a href="historie.html">Historie</a>
+    <a href="clenove.html">Členové</a>
+    <a href="alba.html">Alba</a>
+    <a href="zajimavosti.html">Zajímavosti</a>
+  </nav>
+
+  <ul>
+    <li>Chino Moreno – zpěv</li>
+    <li>Stephen Carpenter – kytara</li>
+    <li>Sergio Vega – baskytara</li>
+    <li>Abe Cunningham – bicí</li>
+    <li>Frank Delgado – klávesy</li>
+  </ul>
+</body>
+</html>

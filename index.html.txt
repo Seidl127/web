@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+  <meta charset="UTF-8">
+  <title>Deftones</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Deftones</h1>
+  <nav>
+    <a href="index.html">Domů</a>
+    <a href="historie.html">Historie</a>
+    <a href="clenove.html">Členové</a>
+    <a href="alba.html">Alba</a>
+    <a href="zajimavosti.html">Zajímavosti</a>
+  </nav>
+
+  <h2>Vítejte</h2>
+  <p>Deftones je americká rocková kapela, která vznikla v roce 1988 v Kalifornii. Je známá tím, že spojuje tvrdé kytary s pomalými a atmosférickými melodiemi.</p>
+  <p>Jejich písně bývají energické, ale i emotivní. Fanoušci oceňují jejich originální styl a dlouhou hudební historii.</p>
+</body>
+</html>

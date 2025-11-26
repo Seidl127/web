@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+  <meta charset="UTF-8">
+  <title>Historie</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Historie</h1>
+  <nav>
+    <a href="index.html">Domů</a>
+    <a href="historie.html">Historie</a>
+    <a href="clenove.html">Členové</a>
+    <a href="alba.html">Alba</a>
+    <a href="zajimavosti.html">Zajímavosti</a>
+  </nav>
+
+  <p>Kapela vznikla koncem osmdesátých let. Založili ji spolužáci Chino Moreno, Stephen Carpenter a Abe Cunningham.</p>
+  <p>V devadesátých letech se proslavili díky albům jako *Around the Fur* nebo *White Pony*. Jejich hudba se postupně měnila a získala si miliony fanoušků po celém světě.</p>
+</body>
+</html>
